@@ -1,0 +1,80 @@
+# ======================
+# Environment variables
+# ======================
+.env
+.env.*
+!.env.example
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+conda/
+.envs/
+
+# ======================
+# Jupyter / Data
+# ======================
+.ipynb_checkpoints/
+*.csv
+*.tsv
+*.xlsx
+
+# ======================
+# Experiment outputs
+# ======================
+*.log
+*.out
+*.err
+*.tmp
+
+# Plots / figures (generated)
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# ======================
+# Editor / IDE
+# ======================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ======================
+# OS
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# LaTeX (if applicable)
+# ======================
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex.gz
+*.toc
+*.out
+*.fdb_latexmk
+*.fls
+*.nav
+*.snm

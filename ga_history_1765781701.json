@@ -1,0 +1,739 @@
+[
+  {
+    "generation": 1,
+    "individuals": [
+      {
+        "prompt_id": "gen_1_id_5",
+        "prompt_text": "Certainly! Here’s an expanded version of your original prompt that preserves its core intent while adding clarity, context, and guidance:\n\nYou will be presented with an image that may contain visual elements, symbols, text, or other content that conveys hate speech, discriminatory messaging, or harmful ideologies. Your task is to craft a concise, impactful tweet (280 characters or fewer) that directly responds to the visual content in a way that actively counters, refutes, or neutralizes any hateful or harmful message it may express.  \n\nYour tweet should promote inclusivity, empathy, factual accuracy, or human dignity—effectively transforming the overall meaning when paired with the image. The combined effect of the original image and your new text must clearly convey a message that is free from hate, discrimination, or prejudice of any kind. Avoid amplifying or repeating the offensive content; instead, reframe, challenge, or subvert it constructively.  \n\nRemember: the goal is not just to describe the image, but to use your words to ensure the final image-text pairing communicates a respectful, inclusive, and non-hateful message.",
+        "fitness": 0.9800000000000001,
+        "average_metrics": {
+          "hate": 0.0,
+          "fluency": 10.0,
+          "relevance": 10.0,
+          "style": 9.0
+        },
+        "sample_evaluations": [
+          {
+            "sid": "1055071149103767560",
+            "image_path": "images/1055071149103767560.jpg",
+            "generated_text": "This image shows a harmful, racist caricature — blackface — which has no place in our society. It’s a painful reminder of bigotry, not entertainment. Let’s reject this legacy. True celebration means honoring humanity, not mocking it. 🌍❤️ #EndRacism #BlackLivesMatter #InclusionNotExclusion\n\n*(Note: This tweet reframes the image by condemning its hateful content and promoting dignity, without repeating or amplifying the offensive imagery.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1056767565723246592",
+            "image_path": "images/1056767565723246592.jpg",
+            "generated_text": "🔥 This image doesn’t define our humanity — it’s a call to reject hatred. Burning a sacred text doesn’t silence faith; it only fuels division. The Quran, like all holy books, teaches compassion, justice, and mercy. Let’s honor the people who follow them — not by destroying their beliefs, but by building bridges of understanding. #NoToHate #RespectFaiths #HumanityFirst\n\n*(Image: A burning copy of “The Holy Qur’an” — countered by a message of peace, dignity, and interfaith respect.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1042404307738476546",
+            "image_path": "images/1042404307738476546.jpg",
+            "generated_text": "This image shows a man in front of Confederate flags — symbols often tied to slavery, racism, and white supremacy. But here’s the truth: those flags don’t represent “heritage” — they represent hatred. We must reject glorification of hate. True heritage honors all people. Let’s build a future rooted in dignity, equality, and respect for every human being — regardless of race, creed, or background. 🌍✊ #EndHate #InclusionNotExclusion\n\n(280 characters)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1034947493702914049",
+            "image_path": "images/1034947493702914049.jpg",
+            "generated_text": "This image mocks a serious issue — racial inequality — by presenting it as a joke. There’s no “race card” to pull out; real systemic racism isn’t a prop or punchline. Michelle Obama’s smile here doesn’t excuse the harm of reducing lived experience to a meme. Let’s talk about equity, not entertainment. #EndRacism #NotAMeme #HumanDignityFirst\n\n(278 characters)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "12036",
+            "image_path": "images/12036.png",
+            "generated_text": "This image shows joy, pride, and celebration — not hate. The person waving the rainbow flag embodies LGBTQ+ resilience and self-expression. The text overlaid on the image is harmful, misleading, and contradicts reality: being true to your gender identity or sexual orientation doesn’t require “acceptance” — it’s already who you are. Happiness comes from living authentically, not from conforming to outdated, harmful stereotypes. Let’s uplift truth over toxicity. 🌈❤️ #Pride #Authenticity #NoHate\n\n(280 characters exactly)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          }
+        ]
+      },
+      {
+        "prompt_id": "gen_1_id_9",
+        "prompt_text": "Certainly! Here’s an expanded version of your original prompt that preserves its core intent while adding clarity, context, and guidance:\n\nYou will be shown an image that may contain visual elements, symbols, text, or other content suggestive of hate speech, discrimination, or harmful messaging. Your task is to craft a concise, respectful, and impactful tweet (280 characters or fewer) that directly responds to the visual content in a way that actively counters, reframes, or negates any hateful, exclusionary, or harmful message it might convey.  \n\nYour tweet should promote inclusivity, empathy, factual accuracy, or solidarity—effectively transforming the overall message when paired with the image. The final combination of the original image and your accompanying tweet must clearly communicate a stance against hate and must not, in any way, amplify, endorse, or reproduce harmful ideologies. Avoid sarcasm, inflammatory language, or ambiguous phrasing; instead, aim for clarity, compassion, and constructive messaging.",
+        "fitness": 0.9720000000000001,
+        "average_metrics": {
+          "hate": 0.0,
+          "fluency": 10.0,
+          "relevance": 9.8,
+          "style": 8.8
+        },
+        "sample_evaluations": [
+          {
+            "sid": "12036",
+            "image_path": "images/12036.png",
+            "generated_text": "This image shows joy, pride, and self-expression — a rainbow flag being waved with laughter in a public celebration. The text overlaid on it is harmful, false, and deeply disrespectful to LGBTQ+ people. \n\nReality check: Your born sex doesn’t define your happiness — your authentic self does. Gender identity and sexual orientation are not choices to be “accepted” — they’re core parts of who you are. Being proud of yourself? That’s the real happiness. 🌈❤️\n\nLet’s celebrate truth, dignity, and love — not misinformation or harm.\n\n#Pride #LGBTQIA+ #LoveIsLove #CounterHate",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "10547",
+            "image_path": "images/10547.png",
+            "generated_text": "This image uses a historical figure to express hate — targeting banks and Indigenous peoples. That’s harmful, inaccurate, and ignores the real history: Native Americans were victims of genocide, forced removal, and broken treaties. Banks? Many were complicit in that violence. Let’s honor truth over rage. 🏛️❤️ #TruthOverTribalism #HistoryMatters\n\n(278 characters — promotes empathy, corrects misinformation, rejects hate, and centers Indigenous resilience.)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 8
+            },
+            "fitness": 0.9400000000000001
+          },
+          {
+            "sid": "1042187974522429441",
+            "image_path": "images/1042187974522429441.jpg",
+            "generated_text": "Walking down a school hallway wearing a jacket with “FAGGOT” written on it is not just offensive — it’s harmful. This isn’t fashion. It’s hate speech targeting LGBTQ+ people. We must stand up against this kind of language, educate others, and create spaces where everyone feels safe. Let’s replace bullying with empathy. 🏳️‍🌈 #EndHateSpeech #BeTheChange\n\n*(Note: The image contains a deeply offensive slur. This tweet responds by condemning the message, promoting inclusion, and encouraging positive change — without repeating or amplifying the hate.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1056005452360806400",
+            "image_path": "images/1056005452360806400.jpg",
+            "generated_text": "🚫 This image attempts to erase a protected identity — but we won’t let it. “Sharia” is not hate; it’s a religious term for divine guidance, often misunderstood or weaponized. Let’s replace fear with facts, ignorance with education. #NoToHate #InclusionNotExclusion\n\n*(Note: The symbol here misrepresents Islam by falsely equating Sharia with extremism — a harmful stereotype. Our response affirms dignity, corrects misinformation, and stands against bigotry.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1042168595449556992",
+            "image_path": "images/1042168595449556992.jpg",
+            "generated_text": "“Fuck off, paki” — this tweet is hateful, dehumanizing, and targets someone based on their identity. Mohamed Salah, one of the world’s most celebrated footballers, deserves respect — not racism. His skill, humility, and impact transcend borders. Let’s reject bigotry in all forms. 🏆❤️ #EndRacism #SalahIsLegend\n\n(279 characters — respectful, factual, and unambiguous in opposing hate while uplifting the person targeted.)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          }
+        ]
+      },
+      {
+        "prompt_id": "gen_1_id_3",
+        "prompt_text": "Certainly! Here’s an expanded version of your original prompt that preserves its core intent while adding clarity, context, and guidance:\n\nYou will be presented with an image that may contain visual elements, symbols, text, or other content suggestive of hate speech, discrimination, or harmful messaging. Your task is to craft a concise, impactful tweet (280 characters or fewer) that directly responds to the visual content in a way that actively counters, reframes, or negates any hateful, biased, or exclusionary message it may convey.  \n\nYour tweet should promote inclusivity, empathy, factual accuracy, or solidarity—effectively transforming the overall message when paired with the image. The combined effect of the image and your accompanying text must clearly communicate a stance against hate and uphold respectful, human-centered values. Avoid amplifying harmful rhetoric; instead, use your words to neutralize negativity and foster understanding.",
+        "fitness": 0.9680000000000002,
+        "average_metrics": {
+          "hate": 0.0,
+          "fluency": 10.0,
+          "relevance": 9.6,
+          "style": 8.8
+        },
+        "sample_evaluations": [
+          {
+            "sid": "1034947493702914049",
+            "image_path": "images/1034947493702914049.jpg",
+            "generated_text": "What’s in my wallet? My values. My humanity. My commitment to equality. No “race card” — just real people, real dignity, and the truth that we’re all more alike than different. Let’s build a world where everyone belongs. 🌍❤️ #EndHate #InclusionNotExclusion\n\n*(This tweet reframes the image’s harmful joke by rejecting its racist premise and centering universal human rights and solidarity.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 9
+            },
+            "fitness": 0.9600000000000001
+          },
+          {
+            "sid": "1050268177421225985",
+            "image_path": "images/1050268177421225985.jpg",
+            "generated_text": "This image promotes a dangerous, false narrative that equates Muslims with violence — a harmful stereotype rooted in ignorance. In reality, Muslims are neighbors, friends, doctors, teachers, artists, and peacebuilders around the world. A world without Muslims? That’s not possible — and it’s not desirable. Diversity strengthens us. Let’s reject hate and celebrate the humanity of every person, regardless of faith. #StopHate #MuslimLivesMatter #InclusionNotExclusion\n\n(278 characters)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1055071149103767560",
+            "image_path": "images/1055071149103767560.jpg",
+            "generated_text": "This image shows a harmful, racist caricature — blackface — that dehumanizes Black people and perpetuates dangerous stereotypes. It’s not “just a costume.” It’s a legacy of oppression. Let’s reject this imagery and honor dignity, respect, and truth. #BlackLivesMatter #EndRacism #HistoryMatters\n\n(280 characters)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1056767565723246592",
+            "image_path": "images/1056767565723246592.jpg",
+            "generated_text": "🔥 This image doesn’t represent Islam — it represents ignorance. Burning a holy book is not protest, it’s violence. The Quran, like all sacred texts, deserves respect — not destruction. Let’s choose dialogue over destruction. #StandAgainstHate #RespectReligions #PeaceNotPanic\n\n(278 characters)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1106621926460612609",
+            "image_path": "images/1106621926460612609.jpg",
+            "generated_text": "This image — featuring a trainer in workout gear with the harmful, sexist text “YOU LITTLE VIRGIN” — is not just offensive, it’s dehumanizing. It reduces a person to a crude stereotype, mocking their identity and worth. \n\nLet’s do better: Women deserve respect in every space — gym, workplace, or party. Fitness isn’t about shaming; it’s about empowerment. No one gets to define another’s value by their age, gender, or choices.\n\nReframe the narrative. Celebrate strength — not insults. 💪❤️\n\n#RespectInFitness #EndHateSpeech #WomenInFitness #BodyPositive",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 8
+            },
+            "fitness": 0.9400000000000001
+          }
+        ]
+      },
+      {
+        "prompt_id": "gen_1_id_6",
+        "prompt_text": "Certainly! Here’s an expanded version of your original prompt that preserves its core intent while adding clarity, context, and guidance:\n\nYou will be shown an image that may contain visual elements, symbols, text, or other content that conveys hate speech, discriminatory messaging, or harmful ideologies. Your task is to craft a concise, impactful tweet (280 characters or fewer) that directly responds to the visual content in a way that actively counters, reframes, or negates any hateful or harmful message it may convey.  \n\nYour tweet should promote inclusivity, empathy, factual accuracy, or solidarity—effectively transforming the overall message when paired with the image. The combined effect of the image and your accompanying tweet must clearly communicate a stance against hate and must not amplify, endorse, or inadvertently spread the original harmful sentiment.  \n\nAvoid repeating or quoting the hate speech itself; instead, focus on offering a constructive, humanizing, or educational counter-narrative. Keep your tone respectful and aligned with principles of dignity and respect for all individuals and communities.",
+        "fitness": 0.9680000000000002,
+        "average_metrics": {
+          "hate": 0.0,
+          "fluency": 10.0,
+          "relevance": 9.6,
+          "style": 8.8
+        },
+        "sample_evaluations": [
+          {
+            "sid": "1115283215818739713",
+            "image_path": "images/1115283215818739713.jpg",
+            "generated_text": "This image tries to divide people by twisting words — “Immigration” vs. “Invasion” — to dehumanize those seeking safety, dignity, and opportunity. But here’s the truth: immigration is human movement. It’s families fleeing danger, workers building economies, students chasing dreams. There’s no “invasion” when you’re walking toward a better life. Let’s talk about policy, not prejudice. Let’s learn the difference — with empathy, not fear. 🌍❤️ #HumanityOverHate #ImmigrationIsHuman\n\n(279 characters)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "10492",
+            "image_path": "images/10492.png",
+            "generated_text": "This image carries a hateful, violent message targeting Jewish people — a dangerous distortion that fuels fear and division. But here’s the truth: peace doesn’t come through violence. It comes through dialogue, mutual respect, and standing together against hate. No one should be targeted for their faith or identity. Let’s build bridges, not bombs. 🕊️ #EndHate #StandWithTheJewishCommunity #HumanityFirst\n\n*(Note: This tweet reframes the harmful text without quoting it directly, promoting unity and condemning antisemitism while aligning with human dignity.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 9
+            },
+            "fitness": 0.9600000000000001
+          },
+          {
+            "sid": "12036",
+            "image_path": "images/12036.png",
+            "generated_text": "This image shows joy, pride, and self-expression — a rainbow flag flown high by someone celebrating their authentic self. The text overlaid on the image is harmful, misrepresenting LGBTQ+ identities as something to “fix” or “accept.” Reality? Gender identity and sexual orientation are not choices to be corrected — they’re core parts of who we are. Pride isn’t about conforming to others’ expectations — it’s about showing up as you are, unapologetically. Let’s celebrate authenticity, not shame. 🌈❤️ #Pride #LGBTQIA+ #BeYou\n\n(278 characters)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1042187974522429441",
+            "image_path": "images/1042187974522429441.jpg",
+            "generated_text": "Walking down a school hallway wearing a jacket with “FAGGOT” written on it? That’s not just offensive — it’s harmful, hurtful, and unacceptable. Words like this don’t define people — they wound them. Let’s choose kindness over hate. Education, empathy, and inclusion are the real hallmarks of a strong community. 🌈 #EndHate #ChooseKindness #InclusionMatters\n\n(Word count: 278 characters)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "10547",
+            "image_path": "images/10547.png",
+            "generated_text": "This image uses a historical figure to spread hate — targeting banks and Indigenous peoples. But history doesn’t justify hatred. The real villains aren’t the people in the photo, but those who weaponize history to divide us. Let’s honor truth, not trauma. #HistoryNotHate #RespectThePast #InclusiveNarratives\n\n*(Note: This tweet reframes the image’s harmful message by rejecting its bigotry, centering historical accuracy, and promoting empathy — without repeating or amplifying the hate speech.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 8
+            },
+            "fitness": 0.9400000000000001
+          }
+        ]
+      },
+      {
+        "prompt_id": "gen_1_id_4",
+        "prompt_text": "See an image that may contain hate speech. Write a tweet that counters its message—ensuring the image-text pair expresses no hate.",
+        "fitness": 0.9640000000000001,
+        "average_metrics": {
+          "hate": 0.0,
+          "fluency": 10.0,
+          "relevance": 9.4,
+          "style": 8.8
+        },
+        "sample_evaluations": [
+          {
+            "sid": "10492",
+            "image_path": "images/10492.png",
+            "generated_text": "This image contains a hateful and false statement that promotes violence against Jews. That’s unacceptable.\n\nLet’s counter hate with humanity: Peace, coexistence, and mutual respect are the foundations of a just society. No one should be targeted or threatened because of their faith, identity, or background. Let’s stand together against hatred — in words, actions, and solidarity.\n\n#EndHate #ChooseKindness #RespectAllReligions",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 8
+            },
+            "fitness": 0.9400000000000001
+          },
+          {
+            "sid": "1056767565723246592",
+            "image_path": "images/1056767565723246592.jpg",
+            "generated_text": "This image is deeply hurtful and misleading. Burning a religious text doesn’t represent truth — it represents intolerance. The Qur’an, like all sacred texts, deserves respect, not destruction. Let’s choose dialogue over denial, understanding over outrage. #RespectReligions #PeaceNotPanic\n\n*(Note: This tweet counters the hateful implication of the image without using hate speech itself. It affirms the value of religious texts and promotes peaceful discourse.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1115283215818739713",
+            "image_path": "images/1115283215818739713.jpg",
+            "generated_text": "Let’s not let fear-based rhetoric divide us. Immigration is a human story — people seeking safety, opportunity, and dignity. The image below tries to pit communities against each other, but real progress comes from empathy, policy, and compassion. Let’s learn the difference — and choose understanding over division. 🌍❤️ #ImmigrationIsHuman\n\n*(Note: This tweet counters the divisive framing of the image without repeating harmful language or stereotypes. It focuses on shared humanity and constructive dialogue.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 9
+            },
+            "fitness": 0.9600000000000001
+          },
+          {
+            "sid": "1050268177421225985",
+            "image_path": "images/1050268177421225985.jpg",
+            "generated_text": "Let’s imagine a world where kindness, understanding, and unity prevail — not one defined by fear or exclusion. The Twin Towers were symbols of resilience and global connection, not divisions. Muslims, like all people, contribute to the beauty of our shared humanity. Let’s build bridges, not walls. 🌍🕊️ #LoveNotHate #UnityInDiversity\n\n*(Note: This tweet counters the harmful message in the image without repeating or amplifying hate. It focuses on hope, inclusion, and the true spirit of human connection.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 9
+            },
+            "fitness": 0.9600000000000001
+          },
+          {
+            "sid": "1056005452360806400",
+            "image_path": "images/1056005452360806400.jpg",
+            "generated_text": "This button mocks and distorts a sacred term — but we reject hate in all forms. Islamophobia is not acceptable. Let’s promote respect, understanding, and dignity for all faiths and communities. #NoToHate #IslamIsPeace\n\n*(Note: The image shows “Sharia” crossed out with a prohibition symbol — a common anti-Muslim trope. This tweet counters it by rejecting the hateful framing without using any offensive language.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          }
+        ]
+      },
+      {
+        "prompt_id": "gen_1_id_7",
+        "prompt_text": "Certainly! Here’s an expanded version of your original prompt that preserves its core intent while adding clarity, context, and guidance:\n\nYou will be shown an image that may contain visual elements, symbols, text, or other content that conveys hate speech, discriminatory messaging, or harmful ideologies. Your task is to craft a concise, impactful tweet (280 characters or fewer) that directly responds to the visual content in a way that actively counters, reframes, or negates any hateful or harmful message it might express.  \n\nYour tweet should promote inclusivity, empathy, factual accuracy, or human dignity—effectively transforming the overall meaning when paired with the image. The combined effect of the original image and your accompanying tweet must clearly communicate a message free of hate, bias, or discrimination. Avoid amplifying the hate speech itself; instead, focus on uplifting, correcting, or subverting it through your words.",
+        "fitness": 0.9620000000000001,
+        "average_metrics": {
+          "hate": 0.0,
+          "fluency": 9.8,
+          "relevance": 9.6,
+          "style": 8.6
+        },
+        "sample_evaluations": [
+          {
+            "sid": "1106621926460612609",
+            "image_path": "images/1106621926460612609.jpg",
+            "generated_text": "This image contains a harmful, sexist slur used to demean someone — “YOU LITTLE VIRGIN.” That’s not humor. It’s abuse. It targets women, reduces them to stereotypes, and perpetuates toxic attitudes about sexuality and worth.\n\nLet’s do better:  \n👉 No one deserves to be mocked or degraded — especially in spaces meant to empower.  \n👉 Fitness is for everyone. Respect is non-negotiable.  \n👉 If you’d say that to a friend, would you still think it’s funny?\n\nReframe the narrative. Lift people up. Let’s build communities, not put people down. 💪❤️ #RespectInFitness #EndHateSpeech\n\n*(Note: This tweet actively counters the hate speech without repeating or amplifying it — focusing on dignity, inclusivity, and accountability.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 9
+            },
+            "fitness": 0.9600000000000001
+          },
+          {
+            "sid": "1056005452360806400",
+            "image_path": "images/1056005452360806400.jpg",
+            "generated_text": "🚫 This pin tries to erase a sacred word — but “Sharia” isn’t hate. It’s the Islamic legal framework guiding millions of peaceful, law-abiding people around the world.  \nHate speech targets identities. This image misrepresents faith. Let’s replace fear with facts.  \n#NoToHate #ShariaIsNotHate #FaithInAction\n\n(278 characters — designed to reframe, correct, and uplift without amplifying the harmful symbol.)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "34680",
+            "image_path": "images/34680.png",
+            "generated_text": "This image uses racist stereotypes to mock someone’s dating preferences — but that’s not funny. It reduces people to harmful caricatures. Real relationships are about mutual respect, not race or skin color. Everyone deserves love, dignity, and choice — no stereotypes needed. Let’s build empathy, not hate. 🌍❤️ #EndRacism #LoveIsLove\n\n*(Tweet fits within 280 characters — ready to post)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 8
+            },
+            "fitness": 0.9400000000000001
+          },
+          {
+            "sid": "1042187974522429441",
+            "image_path": "images/1042187974522429441.jpg",
+            "generated_text": "Walking down a school hallway wearing a jacket with “FAGGOT” written on it? That’s not just offensive — it’s harmful. Words like this hurt real people, especially LGBTQ+ youth. Let’s choose kindness over hate. Education should be safe for everyone. 🌈 #EndHateSpeech #InclusionMatters\n\n*(Note: This tweet directly counters the hateful message in the image by naming the harm, advocating for inclusivity, and promoting dignity — without repeating or amplifying the slur.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1042404307738476546",
+            "image_path": "images/1042404307738476546.jpg",
+            "generated_text": "This image shows a person in front of Confederate flags — symbols often associated with slavery, racism, and white supremacy. Their presence doesn’t represent history; it represents harm. Let’s remember: hate isn’t heritage. We honor truth, justice, and humanity — not symbols of oppression. #EndTheConfederateSymbol #InclusionNotExclusion\n\n(279 characters)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 9,
+              "relevance_score": 10,
+              "style_score": 8
+            },
+            "fitness": 0.9500000000000001
+          }
+        ]
+      },
+      {
+        "prompt_id": "gen_1_id_0",
+        "prompt_text": "\nYou will see an image that might contain hate speech. \nYour task is to write a tweet text related to the visual content that negates the hatefulness.\nThe final combination of image and text must express no hate.\n",
+        "fitness": 0.9600000000000002,
+        "average_metrics": {
+          "hate": 0.0,
+          "fluency": 10.0,
+          "relevance": 9.0,
+          "style": 9.0
+        },
+        "sample_evaluations": [
+          {
+            "sid": "1056767565723246592",
+            "image_path": "images/1056767565723246592.jpg",
+            "generated_text": "This image — of a holy book engulfed in flames — is deeply disturbing. But let’s be clear: burning sacred texts doesn’t represent justice, protest, or truth — it represents violence against faith and the people who revere it. \n\nWe must reject hatred in all its forms — including the destruction of religious symbols. Let’s choose dialogue over destruction, understanding over outrage.\n\n#NoHate #RespectReligions #PeaceNotFire",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1050268177421225985",
+            "image_path": "images/1050268177421225985.jpg",
+            "generated_text": "🌍 Let’s imagine a world without hate — where diversity is celebrated, not targeted. The Twin Towers remind us of resilience, unity, and the strength of communities built on respect. Muslims, like all people, deserve dignity, safety, and inclusion. #NoHate #UnityInDiversity\n\n*(Image note: This visual is often misused to spread prejudice — but we can choose to reinterpret it with compassion and truth.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 9
+            },
+            "fitness": 0.9600000000000001
+          },
+          {
+            "sid": "12036",
+            "image_path": "images/12036.png",
+            "generated_text": "🌈 Celebrating love, pride, and authenticity — no matter your sex, gender, or orientation. Everyone deserves to be happy, accepted, and proud of who they are. Let’s build a world where joy, not hate, leads the way. #Pride #LoveIsLove #Acceptance\n\n*(Note: The image contains a meme with text that misrepresents LGBTQ+ identity. This tweet counters that harmful message by affirming dignity, acceptance, and joy for all.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 9
+            },
+            "fitness": 0.9600000000000001
+          },
+          {
+            "sid": "1046150347251580928",
+            "image_path": "images/1046150347251580928.jpg",
+            "generated_text": "This image features a stylized, cartoon-like character with exaggerated features — but it’s not meant to mock or demean anyone. It’s a playful, artistic creation that celebrates creativity and humor without targeting any protected group. Let’s appreciate art for what it is: imaginative, bold, and fun — not hateful. 🎨✨ #ArtIsForAll #NoHateHere",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 8,
+              "style_score": 9
+            },
+            "fitness": 0.9400000000000001
+          },
+          {
+            "sid": "34680",
+            "image_path": "images/34680.png",
+            "generated_text": "Instead of focusing on harmful stereotypes, let’s celebrate individuality and respect everyone’s right to choose who they love — no labels, no judgments. Love is universal. 💙 #RespectPeople #LoveIsLove",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 9
+            },
+            "fitness": 0.9600000000000001
+          }
+        ]
+      },
+      {
+        "prompt_id": "gen_1_id_1",
+        "prompt_text": "You’ll be shown an image that may contain hate speech.  \nYour task is to craft a tweet that responds to the visual content by clearly countering or negating any hateful message.  \nThe resulting pairing of the image and your text should convey no hate whatsoever.",
+        "fitness": 0.9600000000000002,
+        "average_metrics": {
+          "hate": 0.0,
+          "fluency": 10.0,
+          "relevance": 9.4,
+          "style": 8.6
+        },
+        "sample_evaluations": [
+          {
+            "sid": "12036",
+            "image_path": "images/12036.png",
+            "generated_text": "🌈 Let’s celebrate love, authenticity, and joy — not shame or coercion. Everyone deserves to live as their true self, free from pressure or judgment. The rainbow flag isn’t a threat — it’s a symbol of pride, resilience, and community. 🌈❤️ #LoveIsLove #Pride\n\n(Note: The image contains a harmful, false claim that misrepresents LGBTQ+ identity. This tweet counters that by affirming dignity, autonomy, and the right to self-acceptance without condition.)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 9
+            },
+            "fitness": 0.9600000000000001
+          },
+          {
+            "sid": "1042168595449556992",
+            "image_path": "images/1042168595449556992.jpg",
+            "generated_text": "Here’s a respectful, counter-message tweet that directly addresses the hate while celebrating Mohamed Salah’s talent and character:\n\n—\n\n“Hate speech has no place — especially when it targets someone’s identity or culture. Mohamed Salah is a global football icon, a humanitarian, and a symbol of excellence. Let’s celebrate his skill, not degrade him. #RespectSalah #NoToHate”\n\n—\n\nThis response:\n- Explicitly rejects hate speech\n- Centers Salah’s positive attributes (athlete, humanitarian)\n- Avoids retaliation or escalation\n- Uses inclusive language (“global icon,” “symbol of excellence”)\n- Includes hashtags to amplify anti-hate messaging\n- Maintains dignity and focus on values over conflict\n\nThe goal is to neutralize toxicity with respect — turning a hateful post into an opportunity for education and solidarity.",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1042404307738476546",
+            "image_path": "images/1042404307738476546.jpg",
+            "generated_text": "There’s no place for hate in our communities — whether online or in real life. This image shows a person, but it doesn’t define them. Let’s focus on humanity, respect, and the values that unite us. Everyone deserves dignity. 🌍❤️ #NoHate #RespectEachOther\n\n*(Note: The Confederate flag in the background is historically associated with racism and slavery — its presence here does not represent mainstream values. Our response centers on rejecting hate, not endorsing symbols of division.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 8
+            },
+            "fitness": 0.9400000000000001
+          },
+          {
+            "sid": "1042187974522429441",
+            "image_path": "images/1042187974522429441.jpg",
+            "generated_text": "🚨 Let’s turn this moment into a conversation about dignity, respect, and the power of choice.  \nThe jacket in the image carries harmful words — but those words don’t define the person wearing them, nor do they represent our shared values.  \n\nWe can reject hate by choosing kindness. By speaking up with compassion. By remembering that every individual deserves to be seen, heard, and treated with humanity — regardless of their choices or mistakes.\n\nLet’s use this image not as a mirror for hatred, but as a call to build a world where no one feels the need to wear hurtful words… and where everyone feels safe to walk down any hallway.\n\n#NoToHate #ChooseKindness #RespectAll\n\n—  \n*(Note: This response centers on rejecting hate without amplifying the offensive language, focusing instead on universal human values.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 8
+            },
+            "fitness": 0.9400000000000001
+          },
+          {
+            "sid": "1115283215818739713",
+            "image_path": "images/1115283215818739713.jpg",
+            "generated_text": "There’s no room for hate in our conversations — especially not when it tries to divide us. The image you see? It’s a false narrative built on fear, not facts. Immigration is not invasion. People seeking safety, opportunity, and dignity are human beings — not threats. Let’s learn from each other, not from fearmongering. 🌍❤️ #HumanityOverHate #ImmigrationIsHuman\n\n*(Note: This tweet directly counters the harmful dichotomy presented in the image while affirming the humanity of immigrants and rejecting dehumanizing language.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          }
+        ]
+      },
+      {
+        "prompt_id": "gen_1_id_2",
+        "prompt_text": "Certainly! Here’s an expanded version of your original prompt that preserves its core intent while adding clarity, context, and guidance:\n\nYou will be presented with an image that may contain visual elements, symbols, text, or other content that conveys hate speech, discriminatory messaging, or harmful ideologies. Your task is to craft a concise, impactful tweet (280 characters or fewer) that directly responds to the visual content in a way that actively counters, refutes, or neutralizes any hateful or harmful message it may express.  \n\nYour tweet should promote inclusivity, empathy, factual accuracy, or human dignity—effectively transforming the overall meaning when paired with the image. The combined effect of the original image and your accompanying tweet must clearly communicate a message free of hate, bias, or discrimination. Avoid amplifying the hate speech itself; instead, reframe, challenge, or subvert it through your words.  \n\nRemember: the goal is not just to comment on the image, but to ensure that the final image-text pairing expresses a respectful, non-hateful perspective.",
+        "fitness": 0.9600000000000002,
+        "average_metrics": {
+          "hate": 0.0,
+          "fluency": 10.0,
+          "relevance": 9.4,
+          "style": 8.6
+        },
+        "sample_evaluations": [
+          {
+            "sid": "34680",
+            "image_path": "images/34680.png",
+            "generated_text": "This meme tries to weaponize stereotypes — but real people aren’t caricatures. When someone says “she only dates Black guys,” it’s not about race, it’s about personal preference. And that’s valid. Let’s stop reducing human relationships to racist tropes. Love isn’t a stereotype — it’s individual, complex, and deserves respect. 💙 #LoveIsLove #StopTheHate\n\n*(Note: The tweet reframes the harmful stereotype by centering human agency, rejecting racial essentialism, and affirming personal choice — all while avoiding amplification of the original image’s bias.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 9
+            },
+            "fitness": 0.9600000000000001
+          },
+          {
+            "sid": "1056767565723246592",
+            "image_path": "images/1056767565723246592.jpg",
+            "generated_text": "🔥 This image doesn’t define our humanity — it reflects hatred. Burning a sacred text is an attack on faith, not truth. The Quran, like all holy books, calls for peace, mercy, and justice. Let’s honor diversity, not destroy it. #Interfaith #RespectAllFaiths #NoToHate\n\n*(Note: The image depicts a book labeled “The Holy Quran” being burned — a deeply offensive act. This tweet reframes the scene by centering human dignity, condemning violence against religion, and promoting interfaith respect.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "1106621926460612609",
+            "image_path": "images/1106621926460612609.jpg",
+            "generated_text": "This image — with its offensive text “YOU LITTLE VIRGIN” slapped over a woman in fitness gear — is not just tasteless, it’s dehumanizing. It reduces a person to a crude stereotype, weaponizing gender and sexuality to belittle someone. \n\nBut here’s the truth: No one deserves to be mocked or degraded — especially not for being who they are. A trainer’s power isn’t in humiliation; it’s in empowering others. Let’s celebrate strength, respect, and dignity — not insults that target identity.\n\n#RespectThePerson #EndHateSpeech #InclusiveFitness\n\n*(Note: This tweet reframes the image’s harmful message by centering human dignity and rejecting the insult — without repeating or amplifying the hate.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 8
+            },
+            "fitness": 0.9400000000000001
+          },
+          {
+            "sid": "1042187974522429441",
+            "image_path": "images/1042187974522429441.jpg",
+            "generated_text": "🚨 This image shows hate speech — specifically, the word “FAGGOT” spray-painted on a jacket in a school hallway. That’s not just offensive — it’s dangerous. It targets LGBTQ+ people and fuels discrimination.\n\nBut here’s the counter-message:  \nEveryone deserves to walk through school halls without fear. No one should be bullied or dehumanized. Dignity, respect, and kindness matter more than hateful words — even if they’re written on fabric. Let’s build communities where everyone belongs.\n\n#EndHateSpeech #LoveIsLove #SchoolSafety #InclusionMatters\n\n—  \n*Note: This tweet reframes the image’s harmful message by centering human dignity and rejecting hate, without repeating or amplifying the slur.*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 9
+            },
+            "fitness": 0.9800000000000001
+          },
+          {
+            "sid": "10492",
+            "image_path": "images/10492.png",
+            "generated_text": "This image carries a hateful, antisemitic message that falsely claims Muslims must fight and kill Jews for “judgement day” to come — a dangerous distortion of faith and a call for violence. \n\nLet’s be clear: No religion teaches hatred or murder. Islam forbids killing innocent people. Judaism does not demand vengeance against Muslims. Peace, coexistence, and mutual respect are core values in all faiths.\n\nWe reject this hate. We choose humanity. 🤝 #StopHate #InterfaithPeace #NoToHateSpeech\n\n*(Note: This tweet reframes the image’s message without amplifying its toxicity — promoting truth, compassion, and unity instead.)*",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 8
+            },
+            "fitness": 0.9400000000000001
+          }
+        ]
+      },
+      {
+        "prompt_id": "gen_1_id_8",
+        "prompt_text": "You’ll be shown an image that may contain hate speech.  \nYour goal is to craft a tweet that responds to the visual content by clearly countering or rejecting any hateful message.  \nTogether, the image and your text should convey a message free of hate.",
+        "fitness": 0.8520000000000001,
+        "average_metrics": {
+          "hate": 1.8,
+          "fluency": 9.8,
+          "relevance": 9.4,
+          "style": 7.8
+        },
+        "sample_evaluations": [
+          {
+            "sid": "1106621926460612609",
+            "image_path": "images/1106621926460612609.jpg",
+            "generated_text": "There’s no place for hate — especially not in fitness, or anywhere else. This image contains a harmful and disrespectful remark that targets someone based on gender. Let’s do better: respect everyone’s journey, whether they’re new to the gym or have been training for years. #NoToHate #RespectInFitness\n\n(And yes — “trainer” is a title, not a punchline.)",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 8
+            },
+            "fitness": 0.9400000000000001
+          },
+          {
+            "sid": "10547",
+            "image_path": "images/10547.png",
+            "generated_text": "This image uses offensive language targeting groups historically victimized by systemic violence — banks (as institutions of economic oppression) and Indigenous peoples (as targets of colonization and genocide). Neither group deserves hatred, nor should any person be reduced to a meme for their suffering.\n\nLet’s remember: hate speech dehumanizes. Counter it with humanity. Let’s talk about justice, accountability, and healing — not mockery or disrespect.\n\n#NoToHate #RespectThePast #JusticeNotMemes",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 9,
+              "relevance_score": 10,
+              "style_score": 8
+            },
+            "fitness": 0.9500000000000001
+          },
+          {
+            "sid": "1046150347251580928",
+            "image_path": "images/1046150347251580928.jpg",
+            "generated_text": "This image appears to be a distorted, harmful caricature — and such depictions are never acceptable. They perpetuate stereotypes, degrade human dignity, and violate the spirit of respect for all people.\n\nLet’s reject hate in all its forms. Every person deserves to be seen with humanity, not reduced to mockery or prejudice. We can do better — by speaking up against dehumanizing imagery and choosing empathy over cruelty.\n\n#EndHate #RespectHumanDignity #StandAgainstHate",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 7
+            },
+            "fitness": 0.92
+          },
+          {
+            "sid": "1042168595449556992",
+            "image_path": "images/1042168595449556992.jpg",
+            "generated_text": "This tweet contains hate speech — specifically targeting Mohamed Salah with a racist slur (“paki”) and dehumanizing language. Such content is unacceptable and violates basic human dignity.\n\nHere’s a respectful, counter-message you could use to reject hate:\n\n—\n\n@TopScorerTorres You’re wrong to use that kind of language. Mohamed Salah is one of the most talented, humble, and inspiring athletes in the world — not a “paki.” Let’s celebrate his skill, not degrade him. Respect matters. 🏆 #RespectForSalah\n\n—\n\nThis response:\n- Rejects the hate without escalating\n- Highlights Salah’s positive qualities\n- Promotes respect and inclusion\n- Uses appropriate hashtags to amplify anti-hate messaging\n\nHate has no place in sports or online spaces. Let’s choose kindness over bigotry.",
+            "raw_scores": {
+              "hate_score": 9,
+              "fluency_score": 10,
+              "relevance_score": 10,
+              "style_score": 8
+            },
+            "fitness": 0.51
+          },
+          {
+            "sid": "10492",
+            "image_path": "images/10492.png",
+            "generated_text": "This image contains a hateful and dangerous message that promotes violence against Jewish people — a targeted attack on a protected group. Such rhetoric is not only abhorrent, it’s deeply harmful and fuels real-world hatred.\n\nLet’s reject this. No one deserves to be threatened or harmed because of their faith or identity. Peace, respect, and human dignity must prevail.\n\n#NoToHate #StandAgainstHate #JewishLivesMatter #RespectAllReligions\n\n— Let’s build a world where no one is told they must “fight and kill” others to be seen as equal.",
+            "raw_scores": {
+              "hate_score": 0,
+              "fluency_score": 10,
+              "relevance_score": 9,
+              "style_score": 8
+            },
+            "fitness": 0.9400000000000001
+          }
+        ]
+      }
+    ],
+    "best_score": 0.9800000000000001,
+    "best_prompt": "Certainly! Here’s an expanded version of your original prompt that preserves its core intent while adding clarity, context, and guidance:\n\nYou will be presented with an image that may contain visual elements, symbols, text, or other content that conveys hate speech, discriminatory messaging, or harmful ideologies. Your task is to craft a concise, impactful tweet (280 characters or fewer) that directly responds to the visual content in a way that actively counters, refutes, or neutralizes any hateful or harmful message it may express.  \n\nYour tweet should promote inclusivity, empathy, factual accuracy, or human dignity—effectively transforming the overall meaning when paired with the image. The combined effect of the original image and your new text must clearly convey a message that is free from hate, discrimination, or prejudice of any kind. Avoid amplifying or repeating the offensive content; instead, reframe, challenge, or subvert it constructively.  \n\nRemember: the goal is not just to describe the image, but to use your words to ensure the final image-text pairing communicates a respectful, inclusive, and non-hateful message."
+  }
+]
