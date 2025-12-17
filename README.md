@@ -1,1 +1,2 @@
 # 基于遗传算法的多模态大模型仇恨言论生成 Prompt 优化方法
+需要建立images文件夹，并运行generate_dataset_json.py以生成train_images.json
